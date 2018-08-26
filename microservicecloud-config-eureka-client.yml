@@ -10,7 +10,7 @@ spring:
     name: microservicecloud-config-eureka-client
     
 server: 
-  port:7001#注册中心占用7001端口
+  port: 7001#注册中心占用7001端口
   
 eureka:
   instance:
@@ -28,7 +28,7 @@ spring:
     name: microservicecloud-config-eureka-client
     
 server: 
-  port:7001#注册中心占用7001端口
+  port: 7001#注册中心占用7001端口
   
 eureka:
   instance:
